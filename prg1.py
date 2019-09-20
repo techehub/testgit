@@ -12,3 +12,9 @@ def test4 ():
     
 def test5 ():
     print ("Test5")
+    
+def test6 ():
+    print ("Test5")
+    
+def test7 ():
+    print ("Test5")
